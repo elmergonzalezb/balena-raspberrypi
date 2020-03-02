@@ -1,6 +1,11 @@
 Change log
 -----------
 
+# v2.47.1+rev2
+## (2020-03-02)
+
+* Enable the rpivid-mem kernel module [Florin Sarbu]
+
 # v2.47.1+rev1
 ## (2020-02-29)
 
